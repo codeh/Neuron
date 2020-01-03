@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroLibTestConsole", "NeuroLibTestConsole\NeuroLibTestConsole.csproj", "{667C9B3F-F44E-494B-944E-B9269459D002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neuron", "Neuron\Neuron.csproj", "{3214184D-A9E8-47FC-B9A4-FBECEF9E7FED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667C9B3F-F44E-494B-944E-B9269459D002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667C9B3F-F44E-494B-944E-B9269459D002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667C9B3F-F44E-494B-944E-B9269459D002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667C9B3F-F44E-494B-944E-B9269459D002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3214184D-A9E8-47FC-B9A4-FBECEF9E7FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3214184D-A9E8-47FC-B9A4-FBECEF9E7FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3214184D-A9E8-47FC-B9A4-FBECEF9E7FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3214184D-A9E8-47FC-B9A4-FBECEF9E7FED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
